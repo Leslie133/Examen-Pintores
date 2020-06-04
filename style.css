@@ -1,0 +1,17 @@
+body{
+    background-color: cadetblue;
+    border: black;    
+}
+h1, h3, p{
+    color: burlywood;
+}
+.container a{
+    color: bisque;
+}
+.container p{
+    text-align: left;
+} 
+img{
+    width:200;
+    height:300;
+}
